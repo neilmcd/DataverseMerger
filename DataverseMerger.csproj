@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C66358EE-563B-42E8-9A0D-B18F185E2A18}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DataverseContactMerger</RootNamespace>
-    <AssemblyName>DataverseContactMerger</AssemblyName>
+    <RootNamespace>DataverseMerger</RootNamespace>
+    <AssemblyName>DataverseMerger</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
