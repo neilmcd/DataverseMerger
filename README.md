@@ -14,3 +14,5 @@ Fields on the Master record are not modified even if different on the Child. All
 Run DataverseMerger.exe from a command prompt after saving the app.conmfig
 
 You may be prompted to log into Dataverse. It will use your cached login if you are already authenticated.
+
+Requires .net Framework 4.6.2 or later.
